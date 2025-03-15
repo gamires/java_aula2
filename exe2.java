@@ -12,5 +12,5 @@ if (letra.equals("a") || letra.equals("e") || letra.equals("i") || letra.equals(
 else{
     System.out.println("A letra é uma conconsoante");
 }
- }
+}
 }
